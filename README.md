@@ -1,3 +1,5 @@
+# My personal learning goals - deep understanding of ML
+
 # Top-down learning path: Machine Learning for Software Engineers
 
 <p align="center">
